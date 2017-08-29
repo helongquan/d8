@@ -986,7 +986,7 @@ filter:alpha(opacity=100);}
 
 .meta-tit{border-bottom:solid 1px #e6e6e6;padding:0 0 10px;margin-bottom:20px}
 .widget{clear:both;margin-bottom:10px;background-color:#fff}
-.widget h3{position:relative;margin:0;line-height:20px;padding:6px 15px;font-size:15px;background-color:#F7F7F7;height: 20px;border-bottom: 1px solid #eaeaea;font-weight: normal;}
+.widget h3{position:relative;margin:0;line-height:20px;padding:6px 15px;font-size:15px;background-color:#ef1c1c;height: 20px;border-bottom: 1px solid #eaeaea;font-weight: normal;}
 .widget h3 .btn{position:absolute;top:5px;right:10px;font-weight:normal;padding: 2px 7px 1px}
 .widget-notip{line-height:20px;color:#666;border-top-color:#f00}
 .widget ul{*zoom:1}
